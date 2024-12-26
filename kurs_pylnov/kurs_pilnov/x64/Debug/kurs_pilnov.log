@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  Source.cpp
+C:\Download\Student\kurs_pilnov\functions.cpp(104,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  kurs_pilnov.vcxproj -> C:\Download\Student\kurs_pilnov\x64\Debug\kurs_pilnov.exe
